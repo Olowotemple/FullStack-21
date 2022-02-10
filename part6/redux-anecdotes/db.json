@@ -1,0 +1,84 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "47145",
+      "votes": 12
+    },
+    {
+      "content": "Adding manpower to a late software project makes it later!",
+      "id": "21149",
+      "votes": 7
+    },
+    {
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "id": "69581",
+      "votes": 2
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "id": "36975",
+      "votes": 1
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 0
+    },
+    {
+      "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "id": "98312",
+      "votes": 0
+    },
+    {
+      "content": "The art of code is beautiful until it isn't",
+      "id": 7,
+      "votes": 26
+    },
+    {
+      "content": "Computers are dumb, all they understand is 0s and 1s",
+      "id": 8,
+      "votes": 0
+    },
+    {
+      "content": "Usually, you should be more concerned about time constraints rather than memory or space constraints",
+      "id": 9,
+      "votes": 1
+    },
+    {
+      "content": "Good programmers write code that computers understand; great programmers write code that humans can understand",
+      "id": 10,
+      "votes": 0
+    },
+    {
+      "content": "Simplicity over cleverness",
+      "id": 11,
+      "votes": 1
+    },
+    {
+      "content": "Read, think, be code",
+      "id": 12,
+      "votes": 0
+    },
+    {
+      "content": "Think about all the complex ways that it could be written in, then write it simply.",
+      "id": 13,
+      "votes": 0
+    },
+    {
+      "content": "literally, don't go overboard; a simple solution will indeed suffice",
+      "id": 14,
+      "votes": 0
+    },
+    {
+      "content": "Simple is the new complex, go figure!",
+      "id": 15,
+      "votes": 0
+    },
+    {
+      "content": "Let the framework battle begin!",
+      "id": 16,
+      "votes": 42
+    }
+  ]
+}
