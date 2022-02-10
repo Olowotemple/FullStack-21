@@ -1,0 +1,16 @@
+GET http://localhost:4352/api/patients
+
+###
+POST http://localhost:4352/api/patients
+Content-Type: application/json
+
+{
+  "name": "Ciroma Adekunle",
+  "dateOfBirth": "1626",
+  "ssn": "2012343-xxxxx",
+  "gender": "female",
+  "occupation": "Trucker Driver"
+}
+
+###
+GET http://localhost:4352/api/patients/d27736ec-f723-11e9-8f0b-362b9e155667
