@@ -1,6 +1,6 @@
 # [Full Stack Open 2021](https://fullstackopen.com/en/)
 
-This course is held at the Department of Computer Science at the University of Helsinki in Spring 2020.
+This course is held in 2021 at the University of Helsinki via the web.
 
 It offers a deep dive into modern web development
 
