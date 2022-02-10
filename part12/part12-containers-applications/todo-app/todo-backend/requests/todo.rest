@@ -1,0 +1,17 @@
+PUT http://localhost:3000/todos/61e1f5325323ca94b83bb944
+Content-Type: application/json
+
+{
+  "text": "Write code",
+  "done": true
+}
+
+###
+
+POST http://localhost:3000/todos
+Content-Type: application/json
+
+{
+  "text": "Finished testing out Redis",
+  "done": true
+}
